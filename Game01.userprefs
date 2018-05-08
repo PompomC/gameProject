@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/AI.cs">
+    <Files>
+      <File FileName="Assets/script/respawn.cs" Line="101" Column="48" />
+      <File FileName="Assets/script/actions.cs" Line="10" Column="2" />
+      <File FileName="Assets/script/AI.cs" Line="228" Column="34" />
+      <File FileName="Assets/script/spellColision.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
